@@ -17,15 +17,15 @@ Now do the reverse of it, take the original image and then use the encrypted val
 Now which image to use?
 *One way is to give the user a chance to upload an image!*
 But, if by mistake if someone has the same image he or she can easily find out the text inside the image!
-***So, How do we solve this problem?????***
-Randomnly create the image!!!
+***So, How do we solve this problem?????***<br>
+***Randomnly create the image!!!***<br>
 We can create a Random image as depicted below and then use it for the encoding the text into the image.
 The randomly created image!!!
 ![random](https://user-images.githubusercontent.com/99396752/182443147-0c7f557d-bdaf-487e-a9fa-3b4929d140d3.png)
-This image is a completely randomly generated and then is used to encode the text.
+This image is a completely randomly generated and then is used to encode the text.<br>
 The encoded image looks like this!!!
 ![Encoded](https://user-images.githubusercontent.com/99396752/182443406-879f8c0a-8ca2-4dbe-a9ff-5ff0f9fef11e.png)
-This above image is the same as the one uploaded in the repository. 
+This above image is the same as the one uploaded in the repository. <br>
 This you can download from github by cloning this repository.
 ## **Why using this?**
 This is a method of encryption which, if you don't have the original image then, the decoding of this will even make the Quatum Computers Sweat!!!

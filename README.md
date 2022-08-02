@@ -20,7 +20,6 @@ But, if by mistake if someone has the same image he or she can easily find out t
 ***So, How do we solve this problem?????***<br>
 ***Randomnly create the image!!!***<br>
 We can create a Random image as depicted below and then use it for the encoding the text into the image.
-The randomly created image!!!
 ![random](https://user-images.githubusercontent.com/99396752/182443147-0c7f557d-bdaf-487e-a9fa-3b4929d140d3.png)
 This image is a completely randomly generated and then is used to encode the text.<br>
 The encoded image looks like this!!!

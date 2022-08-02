@@ -27,7 +27,7 @@ The encoded image looks like this!!!
 ![Encoded](https://user-images.githubusercontent.com/99396752/182443406-879f8c0a-8ca2-4dbe-a9ff-5ff0f9fef11e.png)
 This above image is the same as the one uploaded in the repository. 
 This you can download from github by cloning this repository.
-## **Why using this?
+## **Why using this?**
 This is a method of encryption which, if you don't have the original image then, the decoding of this will even make the Quatum Computers Sweat!!!
-## **Outcome
+## **Outcome**
 From this project you will get to know about a new way of encoding a text into an image except of shifting the pixel value by 0 or 1.
